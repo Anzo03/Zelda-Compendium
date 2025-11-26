@@ -1,6 +1,6 @@
 # 🗡️ **Zelda Compendium - Flutter Project** 📱
 
-![Zelda Logo](https://media.licdn.com/dms/image/v2/D4D03AQETaeSNg9Q6tA/profile-displayphoto-shrink_200_200/B4DZS42ozXHYAg-/0/1738268119301?e=1766016000&v=beta&t=uyRGd9jAWANdS7F4-r7pgEmSVEM0tdXY5aQEViXu5eU)
+![Zelda Logo](https://upload.wikimedia.org/wikipedia/fr/9/90/The_Legend_of_Zelda_Breath_of_the_Wild_Logo.png)
 
 ## Description
 
