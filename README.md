@@ -11,6 +11,7 @@ Grâce à ce projet, l'objectif est de maîtriser la récupération de données 
 ---
 
 ## Fonctionnalités
+![Zelda Logo](https://media.licdn.com/dms/image/v2/D4D03AQETaeSNg9Q6tA/profile-displayphoto-shrink_200_200/B4DZS42ozXHYAg-/0/1738268119301?e=1766016000&v=beta&t=uyRGd9jAWANdS7F4-r7pgEmSVEM0tdXY5aQEViXu5eU)
 
 🌟 **Chargement des données depuis une API externe** : 
   - Récupération des informations du compendium de Zelda via une API REST.
@@ -44,6 +45,7 @@ Grâce à ce projet, l'objectif est de maîtriser la récupération de données 
 - **JSON** : Manipulation des données au format JSON.
 
 ---
+![Zelda Logo](https://media.licdn.com/dms/image/v2/D4D03AQETaeSNg9Q6tA/profile-displayphoto-shrink_200_200/B4DZS42ozXHYAg-/0/1738268119301?e=1766016000&v=beta&t=uyRGd9jAWANdS7F4-r7pgEmSVEM0tdXY5aQEViXu5eU)
 
 ## Installation
 
