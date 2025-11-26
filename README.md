@@ -1,4 +1,4 @@
-# 🗡️ **Zelda Compendium - Flutter Project** 📱
+#  **Zelda Compendium - Flutter Project** 
 
 ![Zelda Logo](https://upload.wikimedia.org/wikipedia/fr/9/90/The_Legend_of_Zelda_Breath_of_the_Wild_Logo.png)
 
@@ -13,22 +13,22 @@ Grâce à ce projet, l'objectif est de maîtriser la récupération de données 
 ## Fonctionnalités
 
 
-🌟 **Chargement des données depuis une API externe** : 
+ **Chargement des données depuis une API externe** : 
   - Récupération des informations du compendium de Zelda via une API REST.
 
-📋 **Affichage dynamique des données** : 
+ **Affichage dynamique des données** : 
   - Affichage des monstres, animaux, objets et matériaux avec leur image, nom, description, etc.
 
-🔄 **Navigation par catégories** : 
+ **Navigation par catégories** : 
   - Facilité de navigation entre différentes catégories (Monstres, Animaux, Équipements, Matériaux) grâce à un **Bottom Navigation Bar**.
 
-🧳 **Gestion des favoris** : 
+ **Gestion des favoris** : 
   - Ajout et suppression d'éléments favoris, avec sauvegarde locale via **SharedPreferences**.
 
-⚡ **Splash Screen animé** : 
+ **Splash Screen animé** : 
   - Un écran de démarrage interactif avec le logo de Zelda et un indicateur de chargement.
 
-🚧 **Gestion de l'état** : 
+ **Gestion de l'état** : 
   - Gestion des états de chargement et des erreurs avec des messages appropriés.
 <img width="349" height="649" alt="monstre" src="https://github.com/user-attachments/assets/84052ce5-c7fc-4e18-8710-cdcce4f839a8" />
 <img width="344" height="652" alt="creature" src="https://github.com/user-attachments/assets/5fdb6d01-986b-48f8-ba35-961151aa3ad5" />
