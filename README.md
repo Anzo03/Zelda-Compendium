@@ -4,7 +4,7 @@
 
 **Zelda Compendium** est une application Flutter qui utilise une API externe pour afficher et interagir avec les données relatives à l'univers de **The Legend of Zelda**. L'application récupère les informations d'un **compendium** de Zelda à travers une API publique, permettant à l'utilisateur de naviguer, filtrer, et afficher des données concernant des **monstres**, des **animaux**, des **objets** et **matériaux** dans le jeu.
 
-L'objectif principal de ce projet est d'apprendre à manipuler des API RESTful, récupérer des données JSON, et gérer l'affichage de ces données de manière intuitive et réactive. L'application permet également de trier les données par catégorie et d'ajouter des fonctionnalités interactives pour une meilleure expérience utilisateur.
+L'objectif principal de ce projet est d'apprendre à manipuler des API , récupérer des données JSON, et gérer l'affichage de ces données de manière intuitive et réactive. L'application permet également de trier les données par catégorie et d'ajouter des fonctionnalités interactives pour une meilleure expérience utilisateur.
 
 ## Fonctionnalités
 
