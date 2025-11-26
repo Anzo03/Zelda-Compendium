@@ -1,6 +1,6 @@
 # 🗡️ **Zelda Compendium - Flutter Project** 📱
 
-![Zelda Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Triforce_of_the_Legend_of_Zelda.svg/1200px-Triforce_of_the_Legend_of_Zelda.svg.png)
+![Zelda Logo]([https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Triforce_of_the_Legend_of_Zelda.svg/1200px-Triforce_of_the_Legend_of_Zelda.svg.png](https://media.licdn.com/dms/image/v2/D4D03AQETaeSNg9Q6tA/profile-displayphoto-shrink_200_200/B4DZS42ozXHYAg-/0/1738268119301?e=1766016000&v=beta&t=uyRGd9jAWANdS7F4-r7pgEmSVEM0tdXY5aQEViXu5eU))
 
 ## Description
 
